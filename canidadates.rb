@@ -1,0 +1,1 @@
+#Inside that file, you will define three hashes: `jane`, `sara`, and `jason`. Each hash should contain all of the data as shown in the tables shown below:
